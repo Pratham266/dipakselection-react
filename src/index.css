@@ -589,7 +589,7 @@ White Form Style
 }
 
 .banner-1 {
-  background-image: url("/img/banner-1.jpg");
+  background-image: url("https://dipakselection-react.vercel.app/assets/img/banner-1.jpg");
   background-color: #03a9f4; /*fallback color*/
 }
 
