@@ -1,5 +1,5 @@
 {
-  "name": "dipakselection-react",
+  "name": "dipakselection",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,10 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-=======
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@mui/icons-material": "^5.15.15",
@@ -21,7 +17,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-material-ui-carousel": "^3.4.2"
->>>>>>> dipakselection-production
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
