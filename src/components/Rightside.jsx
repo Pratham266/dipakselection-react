@@ -1,5 +1,6 @@
 import { Box } from "@mui/material";
 import NestedGrid from "./NestedGrid";
+import PropTypes from "prop-types";
 
 const Rightside = ({ Item }) => {
   return (
@@ -10,5 +11,7 @@ const Rightside = ({ Item }) => {
     </Box>
   );
 };
-
+Rightside.propTypes = {
+  Item: PropTypes.element.isRequired,
+};
 export default Rightside;
